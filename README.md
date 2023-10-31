@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nill-pixel&show_icons=true&locale=en" alt="nill-pixel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nill-pixel&" alt="nill-pixel" /></p>
+<p><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=nill-pixel" alt="GitHub Streak" /></a></p>
