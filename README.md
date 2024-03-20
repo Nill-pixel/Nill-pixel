@@ -16,7 +16,7 @@
 <div style="display: inline_block">
  <h3 align="left">Languages and Tools:</h3>
  
-  [![Skills](https://devicons.dev.br/icons?icon=Python,AWS,NodeJS,PostgreSQL,RabbitMQ&theme=dark)](https://devicons.dev.br/)   
+  [![Skills](https://devicons.dev.br/icons?icon=TS,AWS,NodeJS,PostgreSQL,RabbitMQ&theme=dark)](https://devicons.dev.br/)   
   
 </div>
 
