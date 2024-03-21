@@ -6,7 +6,7 @@
 <br>
 <br>
 <br>
-<img align="right" alt="Coding" width="500" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/113890dcec5607b287aeb3b86e2fc7b1-1680176427/IT-office_High_res/create-a-pixel-art-illustration-or-gif.gif"/>
+<img align="right" alt="Coding" width="800" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/113890dcec5607b287aeb3b86e2fc7b1-1680176427/IT-office_High_res/create-a-pixel-art-illustration-or-gif.gif"/>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
