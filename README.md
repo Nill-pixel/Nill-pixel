@@ -2,11 +2,6 @@
 <h1 align="center">Hi 👋, I'm Nilvany Sunguessungue</h1>
 
 [![Nilvany Sunguessungue](https://img.shields.io/badge/Nilvany-Sunguessungue-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=nill-pixel&color=yellow) ![Followers](https://img.shields.io/github/followers/nill-pixel) ![Stars](https://img.shields.io/github/stars/nill-pixel?label=Profile%20Stars&logo=Profile%20stars&logoColor=g)
-<br>
-<br>
-<br>
-<br>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
