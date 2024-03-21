@@ -13,7 +13,7 @@
 
 <div style="display: inline_block">
  <h3 align="left">Languages and Tools:</h3>
-  <img align="right" alt="Coding" width="300" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/113890dcec5607b287aeb3b86e2fc7b1-1680176427/IT-office_High_res/create-a-pixel-art-illustration-or-gif.gif"/>
+  <img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/113890dcec5607b287aeb3b86e2fc7b1-1680176427/IT-office_High_res/create-a-pixel-art-illustration-or-gif.gif"/>
  
 [![Skills](https://devicons.dev.br/icons?icon=Typescript,Javascript,Java,Remix&theme=dark)](https://devicons.dev.br/)
 </br>
