@@ -16,7 +16,10 @@
 <div style="display: inline_block">
  <h3 align="left">Languages and Tools:</h3>
  
-  [![Skills](https://devicons.dev.br/icons?icon=Typescript,Javascript,Java,Remix,NodeJS,Prisma,Spring,Github,Html,CSS,TailwindCSS,MongoDB,MySQL,Postman,VSCode,Cloudflare&theme=dark)](https://devicons.dev.br/)   
+[![Skills](https://devicons.dev.br/icons?icon=Typescript,Javascript,Java,Remix&theme=dark)](https://devicons.dev.br/) 
+[![Skills](https://devicons.dev.br/icons?icon=NodeJS,Prisma,Spring,Github&theme=dark)](https://devicons.dev.br/) 
+[![Skills](https://devicons.dev.br/icons?icon=Html,CSS,TailwindCSS,MongoDB&theme=dark)](https://devicons.dev.br/)
+[![Skills](https://devicons.dev.br/icons?icon=MySQL,Postman,VSCode,Cloudflare&theme=dark)](https://devicons.dev.br/)
   
 </div>
 
