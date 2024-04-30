@@ -19,7 +19,7 @@
 
 [![Skills](https://devicons.dev.br/icons?icon=Typescript,Javascript,Java,Remix&theme=light)](https://devicons.dev.br/)
 </br>
-[![Skills](https://devicons.dev.br/icons?icon=NodeJS,Prisma,Spring,Github&theme=ligh)](https://devicons.dev.br/) 
+[![Skills](https://devicons.dev.br/icons?icon=NodeJS,Prisma,Spring,Github&theme=light)](https://devicons.dev.br/) 
 </br>
 [![Skills](https://devicons.dev.br/icons?icon=Html,CSS,TailwindCSS,MongoDB&theme=light)](https://devicons.dev.br/)
 </br>
@@ -29,7 +29,7 @@
 
   #
 
-<p><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nill-pixel&show_icons=true&locale=en&layout=compact&theme=onedark" alt="nill-pixel" /></p>
+<p><img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nill-pixel&show_icons=true&locale=en&layout=compact&theme=onelight" alt="nill-pixel" /></p>
 
-<p>&nbsp;<img height="180px"  align="center" src="https://github-readme-stats.vercel.app/api?username=nill-pixel&show_icons=true&locale=en&theme=onedark" alt="nill-pixel" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nill-pixel&&theme=onedark" alt="Nill" /></p>
+<p>&nbsp;<img height="180px"  align="center" src="https://github-readme-stats.vercel.app/api?username=nill-pixel&show_icons=true&locale=en&theme=onelight" alt="nill-pixel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nill-pixel&&theme=onelight" alt="Nill" /></p>
