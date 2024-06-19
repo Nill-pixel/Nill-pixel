@@ -2,9 +2,9 @@
 
 ###
 
-<div align="center">
+<div align="center m-5 p-5">
 <img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nill-pixel&show_icons=true&locale=en&layout=compact&theme=onelight" alt="nill-pixel" />
-&nbsp;<img height="180px"  align="center" src="https://github-readme-stats.vercel.app/api?username=nill-pixel&show_icons=true&locale=en&theme=onelight" alt="nill-pixel" />
+<img height="180px"  align="center" src="https://github-readme-stats.vercel.app/api?username=nill-pixel&show_icons=true&locale=en&theme=onelight" alt="nill-pixel" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nill-pixel&&theme=onelight" alt="Nill" />
 </div>
 
@@ -45,6 +45,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/nill-pixel/nill-pixel/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/Nill-pixel/Nill-pixel/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
