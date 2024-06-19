@@ -2,14 +2,6 @@
 
 ###
 
-<div align="center m-5 p-5">
-<img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nill-pixel&show_icons=true&locale=en&layout=compact&theme=onelight" alt="nill-pixel" />
-<img height="180px"  align="center" src="https://github-readme-stats.vercel.app/api?username=nill-pixel&show_icons=true&locale=en&theme=onelight" alt="nill-pixel" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nill-pixel&&theme=onelight" alt="Nill" />
-</div>
-
-###
-
 <img align="right" height="150" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/113890dcec5607b287aeb3b86e2fc7b1-1680176427/IT-office_High_res/create-a-pixel-art-illustration-or-gif.gif"  />
 
 ###
@@ -46,5 +38,13 @@
 <br clear="both">
 
 <img src="https://github.com/Nill-pixel/Nill-pixel/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center m-5 p-5">
+<img height="180px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nill-pixel&show_icons=true&locale=en&layout=compact&theme=onelight" alt="nill-pixel" />
+<img height="180px"  align="center" src="https://github-readme-stats.vercel.app/api?username=nill-pixel&show_icons=true&locale=en&theme=onelight" alt="nill-pixel" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nill-pixel&&theme=onelight" alt="Nill" />
+</div>
 
 ###
