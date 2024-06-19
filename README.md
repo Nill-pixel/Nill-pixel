@@ -41,7 +41,6 @@ Here are some ideas to get you started:
   <i>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nill-pixel&show_icons=true&include_all_commits=true&count_private=true" alt="Nill-Pixel" />   
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nill-pixel&show_icons=truei&layout=compact&langs_count=7"/>
-    <img align="right" height="150" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/113890dcec5607b287aeb3b86e2fc7b1-1680176427/IT-office_High_res/create-a-pixel-art-illustration-or-gif.gif"  />
   </i>
 </div> 
 
