@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></i>
-<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></i>
-<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></i>
+<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></i>
+<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"></i>
 
-<!--
+
 #### My Stats
 <div>
   <i>
@@ -44,9 +44,6 @@ Here are some ideas to get you started:
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nill-pixel&show_icons=truei&layout=compact&langs_count=7"/>
   </i>
 </div> 
-
--->
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
