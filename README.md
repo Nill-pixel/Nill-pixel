@@ -38,17 +38,23 @@ Here are some ideas to get you started:
 <div>
   <i>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nill-pixel&show_icons=true&include_all_commits=true&count_private=true" alt="Nill-Pixel" />   
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nill-pixel&show_icons=true&layout=compact&langs_count=7" alt="Top Languages"/>
+    <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nill-pixel&show_icons=truei&layout=compact&langs_count=7"/>
   </i>
 </div> 
 
+###
+
+###
 <!--
 <br clear="both">
 
 <img src="https://github.com/Nill-pixel/Nill-pixel/blob/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 -->
+###
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nill-pixel&&theme=onelight" alt="GitHub Streak Stats" />
+<div align="center m-5 p-5">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nill-pixel&&theme=onelight" alt="Nill" />
 </div>
+
+###
