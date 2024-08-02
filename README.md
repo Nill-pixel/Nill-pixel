@@ -9,15 +9,15 @@ I'm **Nilvany Sunguessungue**, a software developer passionate about tech. <br>
 ![Followers](https://img.shields.io/github/followers/nill-pixel) 
 ![Stars](https://img.shields.io/github/stars/nill-pixel?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
-Here are some ideas to get you started:
+### About Me
+- 🔭 I’m currently honing my skills in various technologies.
+- 🌱 I’m diving deep into Express and Node.js.
+- 🤔 I’m on the lookout for new challenges to tackle.
+- 💬 Feel free to ask me about TypeScript, PHP, Node, and backend development.
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/nilvany-tiago-1b019b250) or send me an [email](mailto:nilvanysunguessungue@gmail.com).
+- 😄 Pronouns: he/him/his
+- ⚡ Fun fact: Many programming languages, like Python and JavaScript, have "Easter eggs" – hidden features or jokes added by developers.
 
-- 🔭 I’m currently working on developing new skills...
-- 🌱 I’m currently learning Express and Node.js...
-- 🤔 I’m looking for new challenges...
-- 💬 Ask me about Typescript, PHP, Node, and back-end development...
-- 📫 How to reach me: check my LinkedIn or send me an email...
-- 😄 Pronouns: he/him/his...
-- ⚡ Fun fact: Programming languages like Python and JavaScript have "Easter eggs," hidden features or jokes embedded by developers, adding a touch of humor to the coding experience.
 
 #### Tools 
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></i>
