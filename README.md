@@ -3,7 +3,7 @@
 I'm **Nilvany Sunguessungue**, a software developer passionate about tech. <br>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nilvanysunguessungue@gmail.com)](mailto:nilvanysunguessungue@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilvany-tiago-1b019b250)](https://www.linkedin.com/in/nilvany-tiago-1b019b250)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nilvany-tiago-1b019b250)](https://www.linkedin.com/in/nilvany-sunguessungue-1b019b250/)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=nill-pixel&color=green) 
 ![Followers](https://img.shields.io/github/followers/nill-pixel) 
