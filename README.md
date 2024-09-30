@@ -40,7 +40,7 @@ I'm **Nilvany Sunguessungue**, a software developer passionate about tech. <br>
 #### My Stats
 <div>
   <i>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nill-pixel&show_icons=true&include_all_commits=true&count_private=true" alt="Nill-Pixel" />   
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nill-pixel&show_icons=true&include_all_commits=false&count_private=true" alt="Nill-Pixel" />   
     <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=nill-pixel&show_icons=truei&layout=compact&langs_count=7"/>
   </i>
 </div> 
