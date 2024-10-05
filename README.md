@@ -25,6 +25,7 @@ I'm **Nilvany Sunguessungue**, a software developer passionate about tech. <br>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></i>
+<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></i>
@@ -37,6 +38,11 @@ I'm **Nilvany Sunguessungue**, a software developer passionate about tech. <br>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg"></i>
+<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg"></i>
+<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"></i>
+<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></i>
+<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg"></i>
+<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg"></i>
 
 #### My Stats
 <div>
