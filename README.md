@@ -14,7 +14,7 @@ I'm **Nilvany Sunguessungue**, a software developer passionate about tech. <br>
 - 🌱 I’m diving deep into Express and Node.js.
 - 🤔 I’m on the lookout for new challenges to tackle.
 - 💬 Feel free to ask me about TypeScript, PHP, Node, and backend development.
-- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/nilvany-tiago-1b019b250) or send me an [email](mailto:nilvanysunguessungue@gmail.com).
+- 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/nilvany-sunguessungue-1b019b250) or send me an [email](mailto:nilvanysunguessungue@gmail.com).
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Many programming languages, like Python and JavaScript, have "Easter eggs" – hidden features or jokes added by developers.
 
