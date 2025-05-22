@@ -35,16 +35,13 @@ I'm **Nilvany Sunguessungue**, a software developer passionate about tech. <br>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-plain.svg"></i>
-<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"></i>
-<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"></i>
 <i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"></i>
-<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg"></i>
-<i><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg"></i>
+
 
 #### My Stats
 <div>
