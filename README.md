@@ -11,7 +11,7 @@ I'm **Nilvany Sunguessungue**, a software developer passionate about tech. <br>
 
 ### About Me
 - 🔭 I’m currently honing my skills in various technologies.
-- 🌱 I’m diving deep into Express and Node.js.
+- 🌱 I’m diving deep into Next.js and Node.js.
 - 🤔 I’m on the lookout for new challenges to tackle.
 - 💬 Feel free to ask me about TypeScript, PHP, Node, and backend development.
 - 📫 Reach out via [LinkedIn](https://www.linkedin.com/in/nilvany-sunguessungue-1b019b250) or send me an [email](mailto:nilvanysunguessungue@gmail.com).
